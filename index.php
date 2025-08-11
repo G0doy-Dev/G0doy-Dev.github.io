@@ -1,3 +1,8 @@
+<?php
+echo "teste";
+?>
+
+
 <html>
 <head>
 <title>Olá Godoy</title>
@@ -8,3 +13,4 @@
 </marquee>
 </body>
 </html>
+
